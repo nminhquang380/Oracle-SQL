@@ -13,3 +13,6 @@ In this course, I was guided to use [Oracle 18c](https://www.oracle.com/database
 Probably, you will get stuck with installing. It's okay, because I did, and I had spent around 2 hours fixing them. In my case, I had installed Oracle XE 19c before but I forgot my SYSTEM password so it took me far to delete it completely after reinstall all software. Thus, be careful with your SYS password.
 
 One more thing, for using this repo effectively, get the sample data.
+
+## Disclaimer
+I don't recommend you to clone this repository and run each files, because the queries I wroten just for example and illustrate how to write a sample queries. I hope you can try it yourself by writing queries for your own database. Thanks!
